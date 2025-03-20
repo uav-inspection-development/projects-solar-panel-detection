@@ -14,3 +14,4 @@ List of project to detect solar panels from images (e.g. aerial or satellite)
 | [DSI-Capstone-Project](https://github.com/alexhalcomb/DSI-Capstone-Project) | Superpixel classification | skimage | none | aerial/satellite |
 | [DeepSolaris](https://github.com/SB-BISS/DeepSolaris) | Image classification | Keras | none | aerial/satellite |
 | [Automatic-Faults-Detection-of-Photovoltaic-Farms-using-Thermal-Images](https://github.com/Pratyush-IITBHU/Automatic-Faults-Detection-of-Photovoltaic-Farms-using-Thermal-Images) | Object detection (defects) | YOLO V5 | none | Thermal images |
+| [pv-vision](https://github.com/hackingmaterials/pv-vision) | Image classification & segmentation | PyTorch | none | EL images |
